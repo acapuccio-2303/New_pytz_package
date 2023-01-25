@@ -4,7 +4,7 @@ import pyts
 from setuptools import find_packages, setup
 
 
-DISTNAME = 'pytz_falcone'
+DISTNAME = 'pytzfalcone'
 DESCRIPTION = 'Aggiunte metriche per il calcolo dei Recurrence Plot'
 with open('README.md') as f:
     LONG_DESCRIPTION = f.read()
