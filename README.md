@@ -1,7 +1,6 @@
 
 *Modifiche FALCONE - CAPUCCIO:
-
--Aggiunti argomento "k", per la scelta della metrica nel calcolo dei recurrence plot (recurrence.py)
+-Aggiunto argomento "k", per la scelta della metrica nel calcolo dei recurrence plot (recurrence.py)
 
 
 [![Build Status](https://dev.azure.com/johannfaouzi0034/johannfaouzi/_apis/build/status/johannfaouzi.pyts?branchName=main)](https://dev.azure.com/johannfaouzi0034/johannfaouzi/_build/latest?definitionId=1&branchName=main)
