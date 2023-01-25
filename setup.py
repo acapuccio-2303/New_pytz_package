@@ -1,10 +1,10 @@
 """A python package for time series classification."""
 
-import pytz
+import pyts
 from setuptools import find_packages, setup
 
 
-DISTNAME = 'pytzmodified'
+DISTNAME = 'pytz_falcone'
 DESCRIPTION = 'Aggiunte metriche per il calcolo dei Recurrence Plot'
 with open('README.md') as f:
     LONG_DESCRIPTION = f.read()
