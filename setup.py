@@ -14,7 +14,7 @@ MAINTAINER_EMAIL = 'johann.faouzi@gmail.com'
 URL = 'https://github.com/johannfaouzi/pyts'
 LICENSE = 'new BSD'
 DOWNLOAD_URL = 'https://github.com/johannfaouzi/pyts'
-VERSION = pytz.__version__
+VERSION = pyts.__version__
 INSTALL_REQUIRES = ['numpy>=1.17.5',
                     'scipy>=1.3.0',
                     'scikit-learn>=0.22.1',
