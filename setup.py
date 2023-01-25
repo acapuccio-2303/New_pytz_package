@@ -1,6 +1,6 @@
 """A python package for time series classification."""
 
-import pytz
+import pyts
 from setuptools import find_packages, setup
 
 
